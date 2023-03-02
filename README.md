@@ -5,7 +5,7 @@
 <br>
 => Result of the finished project. This project had as its main objective, the creation of complete e-commerce, 
 where most aspects of the business rules, both the customer side and the service provider company side are addressed.
-It was a challenging and fun application to develop, where I learned to deal with several new tools and perfected several soft skills.
+It was a challenging and fun application to develop, where I learned to deal with several new tools and perfected several hard skills.
 Dealing with the infrastructure part to deploy took me a long time and for that, I needed to go in search of knowledge about some technologies,
 which was also great for me.
 <br>
