@@ -48,7 +48,10 @@ The project was fully completed and some of the resources used were:
 - [x] ![PostegreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 - [x] ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
 - [x] ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+- [x] ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)
+- [x] ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=MUI)
 - [x] ![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=React%20Router)
+- [x] ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia)
 
 
 ## 🤝 Collaborators
