@@ -60,7 +60,7 @@ The project was fully completed and some of the resources used were:
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/edmar-radanovis-0130b611a/">
-        <img src="src/assets/github/foto perfil.png" width="130px;"height="130px;" alt="Foto de Edmar Radanovis"/><br>
+        <img src="src/assets/github/Logo_EWD_APEX.png" width="130px;"height="130px;" alt="Foto de Edmar Radanovis"/><br>
       <sub>
         <b>Edmar Radanovis</b>
       </sub>
